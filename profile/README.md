@@ -1,4 +1,4 @@
-## Hi there 👋
+## urn.js
 
 Welcome to urnjs, the serverless multiplayer framework!
 
